@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LetMeHack</string>
+    <string name="tab_text_1">Notification</string>
+    <string name="tab_text_2">Agenda</string>
+    <string name="tab_text_3">Home</string>
+    <string name="tab_text_4">QR Code</string>
+    <string name="tab_text_5">FAQ</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
